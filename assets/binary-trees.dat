@@ -1,0 +1,5 @@
+gwion Binary file (standard input) matches
+wren            0.31117 +- 0.00193 seconds time elapsed  ( +-  0.62% )
+lua            0.31741 +- 0.00129 seconds time elapsed  ( +-  0.41% )
+python            0.46606 +- 0.00326 seconds time elapsed  ( +-  0.70% )
+ruby             0.3261 +- 0.0656 seconds time elapsed  ( +- 20.12% )
